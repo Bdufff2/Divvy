@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Bdufff2/Divvy/issues"
   },
-  "homepage": "https://github.com/Bdufff2/Divvy#readme"
+  "homepage": "https://github.com/Bdufff2/Divvy#readme",
+  "dependencies": {
+    "tesseract.js": "^2.1.1"
+  }
 }
